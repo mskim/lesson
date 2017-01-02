@@ -1,0 +1,96 @@
+2016 11 23
+
+# Newsman
+
+  newsman.app
+ 신문편집 솔루션
+
+1. Publication
+매체 이름을 말함.
+
+2. Issue
+발행 호를 말함.
+
+3. Article
+기사 꼭지를 말함
+
+4. Story
+꼭지 기사의 내용을 말함
+
+5. Heading
+면머리를 말함
+
+
+## 자동화 전략
+
+신문의 면은 대조(Section), 소조(Article), 면머리(Heading) 로 분리되어 제작한다.
+소조는 각각의 편집된 기사를 말하며 대조는 편집된 한면을 말한다. 
+면머리와 소조는 PDF 로 생성되며 생성된 PDF는 그림(PDF) 형태로 대조로 합성된다.
+대조는 그리드를 기반으로 다양한 소조와 면제목의 페턴의 조합으로 구성된다. 
+이러한 페턴들은 grid_key 라는 고유의 이름을 부여하여 관리한다.
+
+## 작업명령문
+newsman.app 을 설치한다.
+~/.bash_profile 에
+alias newsman="/Applications/newsman.app/Contents/MacOS/newsman"
+을 추가하여 newsman 이라는 단축명령을 사용한다.
+
+  newsman new_publication [publication_path] [publication_name]
+  newsman new_issue [publication_path] [issue_date]
+  newsman section_pdf [section_path]
+  newsman change_section_layout [section_path] [grid_key]
+  newsman story_pdf [story_path]
+
+
+1. 새로운 매체 생성하기
+newsman new_publication ansan_shinmoon
+
+cd ansan_shinmoon
+	config.yml
+	template/
+	
+	config.yml 매체의 설정들이 저장됨, 이를 수정 한다.
+		발행주기
+		편의 구성, (정치, 경제, 문화, 지역뉴스, 스포츠 등등)
+		그리드 구성
+		서체와 스타일 정의
+
+2. 새로운 issue 생성하기
+
+newsman new_issue 2016_11_23
+
+cd 2016_11_23
+
+3. 면 layout  바꾸기
+
+  newsman change_section_layout [section_path] [grid_key]
+	위의 명령문을 실행하면 grid_key 로 저장된 layout 으로 기존의 면의 디자인을 변경한다.
+
+4. PDF 생성하기
+  newsman story_pdf [story_path]
+
+5. 전체면 자동 갱신하기
+
+	rake 을 실행하면 갱신이 필요한 꼭지(Article) 들을 새로이 생성하고 이로인해 수정되어야할 면(Section)들을 자동 갱신하다. 즉 rake 을 실행하면 당일의 Issue 의 모든 수정사항이 갱신된다.
+
+
+## 자동화
+
+명령문들을 Guard 프로그램을 사용하여 자동으로 실행케 하고 Dropbox 를 사용하여 원거리의 기자들과 작업한다.
+
+### Dropbox
+
+ 당일의 Issue 를 Dropbox 에 설치하고
+ 가각의 Article 폴더를 담당 기자들에게 편집권한(Share) 을 부여한다.
+ 기자들은 자신의 PC, Smartphone 에서 Dropbox 에 공유된 Story 파일을 수정한다.
+ 디자이너는 수정이 필요한 디자인 관련 부분을 수정한다.
+ 편집장은 면의 레이아웃을 다른형태로 편경할 수 있다.
+ 함께 작업에 참여하는 이들이 자신의 Dropbox 에서 파일을 저장하는 순간 서버 기기의 Dropbox 에 수정된 내용이 저장된다.
+  잠시후 자신들이 수정한 내용이 반영된 PDF 가 서버와 동기화 된다. 
+  수정된 PDF 화일을 확인하면서 추가로 수정을 가한다. 
+
+### Guard
+
+지정된 폴더내의 파일이 변경되는 것을 감지하고 파일의 변화가 생길때마다 특정 프로그램을 실행하게 하는 프로그램. Guard 를 설치하여 파일 내용이 수정될 때 마다 위의 편집 명령문들을 자동으로 실행하게 한다.
+즉 Dropbox 에 설치된 Issue 의 화일중 파일 변경이 감지 될때  자동 면 생성하기(rake) 명령을 실행 하게 한다. 
+이렇게 시스템이 설정되면 기자들이 기사내용을 수정하고 저장 할 때마다 Issue 의 내용이 자동으로 갱신된다.

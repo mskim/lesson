@@ -1,0 +1,1669 @@
+{
+    BackupFile = YES;
+    Color =     (
+                {
+            C = "CMYK = 0.40, 0.25, 0.81, 0.00, 1.00";
+            N = "C:39 M:25 Y:81 K:0";
+        },
+                {
+            C = "CMYK = 0.86, 0.48, 0.25, 0.00, 1.00";
+            N = "C:85 M:48 Y:25 K:0";
+        },
+                {
+            C = "CMYK = 0.25, 0.86, 1.00, 0.00, 1.00";
+            N = "C:25 M:85 Y:100 K:0";
+        },
+                {
+            C = "CMYK = 0.59, 0.75, 0.25, 0.00, 1.00";
+            N = "C:58 M:75 Y:25 K:0";
+        },
+                {
+            C = "CMYK = 0.10, 0.32, 0.81, 0.00, 1.00";
+            N = "C:9 M:32 Y:81 K:0";
+        },
+                {
+            C = "CMYK = 0.92, 0.48, 0.93, 0.00, 1.00";
+            N = "C:91 M:48 Y:93 K:0";
+        },
+                {
+            C = "RGB = 0.52, 0.29, 0.04, 1.00";
+            N = "R:52 G:28 B:3";
+        },
+                {
+            C = "CMYK = 0.48, 0.48, 0.86, 0.00, 1.00";
+            N = "C:48 M:48 Y:85 K:0";
+        },
+                {
+            C = "CMYK = 0.00, 0.00, 0.00, 1.00, 1.00";
+            N = Black;
+        },
+                {
+            C = "CMYK = 0.00, 0.00, 0.00, 0.00, 1.00";
+            N = White;
+        }
+    );
+    DocVer = 20001;
+    GIMClass =     (
+                {
+            Area = 1;
+            Bounds = "{{0, 0}, {483, 271}}";
+            Class = SMImage;
+            Fill =             {
+                CO1 = "WHITE = 1.00, 1.00";
+            };
+            GIM = Y;
+            Name = A;
+            SI = 2;
+        },
+                {
+            Area = 1;
+            Bounds = "{{0, 0}, {149.291, 107.652}}";
+            CPBox =             {
+                Attribute =                 (
+                );
+                Bounds = "{{811.211, 550.66699}, {83.233398, 6}}";
+                Class = ImageCaption;
+                MG = "{{0, 0}, {0, 0}}";
+                Position = 0;
+                UCT = <fffe0000>;
+            };
+            CaptionWidth = "83.23";
+            Class = SMImage;
+            GIM = Y;
+            GIMScale = Y;
+            Name = B;
+            SI = 2;
+        },
+                {
+            Area = 1;
+            Bounds = "{{0, 0}, {145, 128}}";
+            Class = SMImage;
+            Fill =             {
+                CO1 = "WHITE = 1.00, 1.00";
+            };
+            GIM = Y;
+            Name = C;
+            SI = 2;
+        }
+    );
+    MasterPage =     (
+                {
+            Bounds = "{{0, 0}, {595.28003, 841.89001}}";
+            Class = SMPageObject;
+            Columns = 1;
+            Gutter = "28.35";
+            Name = "Model:B";
+            OverlapGraphics =             (
+                                {
+                    Article =                     {
+                        Attribute =                         (
+                                                        {
+                                Attrs =                                 {
+                                    BC = Y;
+                                    "P_S" = "--";
+                                    TextColorShade = "1.00";
+                                };
+                                Len = 1;
+                            }
+                        );
+                        Containers =                         (
+                            "{{0, 0}, {595.28003, 841.89001}}"
+                        );
+                        Unicode = <fffe0000>;
+                    };
+                    Bounds = "{{0, 0}, {595.28003, 841.89001}}";
+                    Class = SMRectangle;
+                    GraphicContainer =                     {
+                        BT = 1;
+                        Cell = "{595.28003, 20}";
+                        Class = SMGTextBox;
+                        Inter = "{28.346458, 5}";
+                        Row = 33;
+                    };
+                    Number = 1;
+                }
+            );
+            PageMargin = "{{0, 0}, {0, 0}}";
+            PageType = 1;
+        }
+    );
+    PageInfo =     {
+        AutoPageAppend = 1;
+        Baseline = Doc;
+        Bleed = "141.732285";
+        BleedV = "50.000000";
+        CA = 0;
+        CurrentLanguage = 0;
+        Design = mskim;
+        EachPage = YES;
+        FileHistoryFolder = "/Users/Shared/Softmagic/M/Backup";
+        Grid = N;
+        Guide = Y;
+        Host = "mskim-2.local";
+        Increment = "20.000000";
+        Leading = "5.000000";
+        Pages = 1;
+        PaperSize = "A4(210.00mm 297.00mm)";
+        Proportional = "";
+        Ruler = Y;
+        Snap = Y;
+        Start = Doc;
+        UnderGrid = YES;
+        pageNumber = 1;
+    };
+    Pages =     (
+                {
+            Bounds = "{{0, 0}, {877.28003, 941.89001}}";
+            Class = SMPageContainer;
+            GraphicContainer =             {
+                BT = 2;
+                Cell = "{100, 12}";
+                Class = SMGTextBox;
+                Graphics =                 (
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        "P_S" = "--";
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 1;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {595.28003, 841.89001}}"
+                            );
+                            Unicode = <fffe0000>;
+                        };
+                        Bounds = "{{141, 50}, {595.28003, 841.89001}}";
+                        CM = 385;
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            BT = 1;
+                            Cell = "{595.28003, 20}";
+                            Class = SMGTextBox;
+                            Inter = "{28.346458, 5}";
+                            Row = 33;
+                        };
+                        Model = 1;
+                        Number = 1;
+                    },
+                                        {
+                        Bounds = "{{141, 50}, {595.28003, 841.89001}}";
+                        Class = SMPageObject;
+                        Columns = 1;
+                        Gutter = "28.35";
+                        Name = "Model:B";
+                        PageMargin = "{{0, 0}, {0, 0}}";
+                        PageNumber = 1;
+                        PageType = 1;
+                    },
+                                        {
+                        Area = 1;
+                        Bounds = "{{189.95703, 252.86328}, {345.69141, 496.9375}}";
+                        Cells =                         (
+                                                        {
+                                Attribute =                                 (
+                                                                        {
+                                        Attrs =                                         {
+                                            BC = Y;
+                                            FontName = "Times-Roman";
+                                            FontScale = 100;
+                                            FontSize = "10.00";
+                                            NSParagraphStyle = {
+    Class = SMParaStyle;
+    Group = Default;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UserSpacing = "40.00";
+};
+                                            TextColorShade = "1.00";
+                                        };
+                                        Len = 1;
+                                    }
+                                );
+                                Bounds = "{{0, 0}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 0;
+                                Number = 4;
+                                Row = 0;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                                Unicode = <fffe0000>;
+                            },
+                                                        {
+                                Bounds = "{{57.615234, 0}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 1;
+                                Number = 5;
+                                Row = 0;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{115.23047, 0}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 2;
+                                Number = 6;
+                                Row = 0;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{172.84572, 0}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 3;
+                                Number = 7;
+                                Row = 0;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{0, 33.129169}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 0;
+                                Number = 8;
+                                Row = 1;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{57.615234, 33.129169}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 1;
+                                Number = 9;
+                                Row = 1;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{115.23047, 33.129169}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 2;
+                                Number = 10;
+                                Row = 1;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{172.84572, 33.129169}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 3;
+                                Number = 11;
+                                Row = 1;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{0, 66.258339}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 0;
+                                Number = 12;
+                                Row = 2;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{57.615234, 66.258339}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 1;
+                                Number = 13;
+                                Row = 2;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{115.23047, 66.258339}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 2;
+                                Number = 14;
+                                Row = 2;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{172.84572, 66.258339}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 3;
+                                Number = 15;
+                                Row = 2;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{0, 99.387505}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 0;
+                                Number = 16;
+                                Row = 3;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{57.615234, 99.387505}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 1;
+                                Number = 17;
+                                Row = 3;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{115.23047, 99.387505}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 2;
+                                Number = 18;
+                                Row = 3;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{172.84572, 99.387505}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 3;
+                                Number = 19;
+                                Row = 3;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{230.46094, 0}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 4;
+                                Number = 7;
+                                PopupKey = "";
+                                Row = 0;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{230.46094, 33.129169}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 4;
+                                Number = 11;
+                                PopupKey = "";
+                                Row = 1;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{230.46094, 66.258339}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 4;
+                                Number = 15;
+                                PopupKey = "";
+                                Row = 2;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{230.46094, 99.387505}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 4;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 3;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{288.07617, 0}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 5;
+                                Number = 7;
+                                PopupKey = "";
+                                Row = 0;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{288.07617, 33.129169}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 5;
+                                Number = 11;
+                                PopupKey = "";
+                                Row = 1;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{288.07617, 66.258339}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 5;
+                                Number = 15;
+                                PopupKey = "";
+                                Row = 2;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{288.07617, 99.387505}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 5;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 3;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{0, 132.51668}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 0;
+                                Number = 16;
+                                PopupKey = "";
+                                Row = 4;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{57.615234, 132.51668}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 1;
+                                Number = 17;
+                                PopupKey = "";
+                                Row = 4;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{115.23047, 132.51668}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 2;
+                                Number = 18;
+                                PopupKey = "";
+                                Row = 4;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{172.84572, 132.51668}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 3;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 4;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{230.46094, 132.51668}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 4;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 4;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{288.07617, 132.51668}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 5;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 4;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{0, 165.64584}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 0;
+                                Number = 16;
+                                PopupKey = "";
+                                Row = 5;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{57.615234, 165.64584}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 1;
+                                Number = 17;
+                                PopupKey = "";
+                                Row = 5;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{115.23047, 165.64584}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 2;
+                                Number = 18;
+                                PopupKey = "";
+                                Row = 5;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{172.84572, 165.64584}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 3;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 5;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{230.46094, 165.64584}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 4;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 5;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{288.07617, 165.64584}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 5;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 5;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{0, 198.77501}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 0;
+                                Number = 16;
+                                PopupKey = "";
+                                Row = 6;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{57.615234, 198.77501}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 1;
+                                Number = 17;
+                                PopupKey = "";
+                                Row = 6;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{115.23047, 198.77501}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 2;
+                                Number = 18;
+                                PopupKey = "";
+                                Row = 6;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{172.84572, 198.77501}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 3;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 6;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{230.46094, 198.77501}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 4;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 6;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{288.07617, 198.77501}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 5;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 6;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{0, 231.90416}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 0;
+                                Number = 16;
+                                PopupKey = "";
+                                Row = 7;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{57.615234, 231.90416}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 1;
+                                Number = 17;
+                                PopupKey = "";
+                                Row = 7;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{115.23047, 231.90416}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 2;
+                                Number = 18;
+                                PopupKey = "";
+                                Row = 7;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{172.84572, 231.90416}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 3;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 7;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{230.46094, 231.90416}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 4;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 7;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{288.07617, 231.90416}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 5;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 7;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{0, 265.03336}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 0;
+                                Number = 16;
+                                PopupKey = "";
+                                Row = 8;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{57.615234, 265.03336}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 1;
+                                Number = 17;
+                                PopupKey = "";
+                                Row = 8;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{115.23047, 265.03336}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 2;
+                                Number = 18;
+                                PopupKey = "";
+                                Row = 8;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{172.84572, 265.03336}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 3;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 8;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{230.46094, 265.03336}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 4;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 8;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{288.07617, 265.03336}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 5;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 8;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{0, 298.16251}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 0;
+                                Number = 16;
+                                PopupKey = "";
+                                Row = 9;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{57.615234, 298.16251}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 1;
+                                Number = 17;
+                                PopupKey = "";
+                                Row = 9;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{115.23047, 298.16251}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 2;
+                                Number = 18;
+                                PopupKey = "";
+                                Row = 9;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{172.84572, 298.16251}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 3;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 9;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{230.46094, 298.16251}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 4;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 9;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{288.07617, 298.16251}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 5;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 9;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{0, 331.29166}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 0;
+                                Number = 16;
+                                PopupKey = "";
+                                Row = 10;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{57.615234, 331.29166}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 1;
+                                Number = 17;
+                                PopupKey = "";
+                                Row = 10;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{115.23047, 331.29166}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 2;
+                                Number = 18;
+                                PopupKey = "";
+                                Row = 10;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{172.84572, 331.29166}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 3;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 10;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{230.46094, 331.29166}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 4;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 10;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{288.07617, 331.29166}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 5;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 10;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{0, 364.42081}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 0;
+                                Number = 16;
+                                PopupKey = "";
+                                Row = 11;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{57.615234, 364.42081}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 1;
+                                Number = 17;
+                                PopupKey = "";
+                                Row = 11;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{115.23047, 364.42081}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 2;
+                                Number = 18;
+                                PopupKey = "";
+                                Row = 11;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{172.84572, 364.42081}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 3;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 11;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{230.46094, 364.42081}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 4;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 11;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{288.07617, 364.42081}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 5;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 11;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{0, 397.54996}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 0;
+                                Number = 16;
+                                PopupKey = "";
+                                Row = 12;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{57.615234, 397.54996}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 1;
+                                Number = 17;
+                                PopupKey = "";
+                                Row = 12;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{115.23047, 397.54996}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 2;
+                                Number = 18;
+                                PopupKey = "";
+                                Row = 12;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{172.84572, 397.54996}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 3;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 12;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{230.46094, 397.54996}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 4;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 12;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{288.07617, 397.54996}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 5;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 12;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{0, 430.67917}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 0;
+                                Number = 16;
+                                PopupKey = "";
+                                Row = 13;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{57.615234, 430.67917}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 1;
+                                Number = 17;
+                                PopupKey = "";
+                                Row = 13;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{115.23047, 430.67917}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 2;
+                                Number = 18;
+                                PopupKey = "";
+                                Row = 13;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{172.84572, 430.67917}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 3;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 13;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{230.46094, 430.67917}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 4;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 13;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{288.07617, 430.67917}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 5;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 13;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{0, 463.80832}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 0;
+                                Number = 16;
+                                PopupKey = "";
+                                Row = 14;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{57.615234, 463.80832}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 1;
+                                Number = 17;
+                                PopupKey = "";
+                                Row = 14;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{115.23047, 463.80832}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 2;
+                                Number = 18;
+                                PopupKey = "";
+                                Row = 14;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{172.84572, 463.80832}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 3;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 14;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{230.46094, 463.80832}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 4;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 14;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            },
+                                                        {
+                                Bounds = "{{288.07617, 463.80832}, {57.615234, 33.129169}}";
+                                CellType = 0;
+                                CharLimit = 0;
+                                Class = SMTableCell;
+                                Column = 5;
+                                Number = 19;
+                                PopupKey = "";
+                                Row = 14;
+                                Shadow =                                 {
+                                    InMargin = "{{3, 3}, {3, 3}}";
+                                };
+                            }
+                        );
+                        Class = SMTable;
+                        Column = 6;
+                        ColumnLines =                         (
+                                                        {
+                                Class = TableLine;
+                                EL = 14;
+                                End = "{57.615234, 496.9375}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 1;
+                                SL = 0;
+                                Start = "{57.615234, 0}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 14;
+                                End = "{115.23047, 496.9375}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 2;
+                                SL = 0;
+                                Start = "{115.23047, 0}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 14;
+                                End = "{172.84572, 496.9375}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 3;
+                                SL = 0;
+                                Start = "{172.84572, 0}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 14;
+                                End = "{230.46094, 496.9375}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 4;
+                                SL = 0;
+                                Start = "{230.46094, 0}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 14;
+                                End = "{288.07617, 496.9375}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 5;
+                                SL = 0;
+                                Start = "{288.07617, 0}";
+                            }
+                        );
+                        Frame =                         {
+                            Position = 1;
+                            Width = "1.00";
+                        };
+                        InterCell = "{3, 3}";
+                        Number = 3;
+                        Row = 15;
+                        RowLines =                         (
+                                                        {
+                                Class = TableLine;
+                                EL = 5;
+                                End = "{345.69141, 33.129169}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 1;
+                                SL = 0;
+                                Start = "{0, 33.129169}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 5;
+                                End = "{345.69141, 66.258339}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 2;
+                                SL = 0;
+                                Start = "{0, 66.258339}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 5;
+                                End = "{345.69141, 99.387505}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 3;
+                                SL = 0;
+                                Start = "{0, 99.387505}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 5;
+                                End = "{345.69141, 132.51668}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 4;
+                                SL = 0;
+                                Start = "{0, 132.51668}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 5;
+                                End = "{345.69141, 165.64584}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 5;
+                                SL = 0;
+                                Start = "{0, 165.64584}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 5;
+                                End = "{345.69141, 198.77501}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 6;
+                                SL = 0;
+                                Start = "{0, 198.77501}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 5;
+                                End = "{345.69141, 231.90416}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 7;
+                                SL = 0;
+                                Start = "{0, 231.90416}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 5;
+                                End = "{345.69141, 265.03336}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 8;
+                                SL = 0;
+                                Start = "{0, 265.03336}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 5;
+                                End = "{345.69141, 298.16251}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 9;
+                                SL = 0;
+                                Start = "{0, 298.16251}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 5;
+                                End = "{345.69141, 331.29166}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 10;
+                                SL = 0;
+                                Start = "{0, 331.29166}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 5;
+                                End = "{345.69141, 364.42081}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 11;
+                                SL = 0;
+                                Start = "{0, 364.42081}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 5;
+                                End = "{345.69141, 397.54996}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 12;
+                                SL = 0;
+                                Start = "{0, 397.54996}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 5;
+                                End = "{345.69141, 430.67917}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 13;
+                                SL = 0;
+                                Start = "{0, 430.67917}";
+                            },
+                                                        {
+                                Class = TableLine;
+                                EL = 5;
+                                End = "{345.69141, 463.80832}";
+                                Frame =                                 {
+                                    Width = "1.00";
+                                };
+                                LN = 14;
+                                SL = 0;
+                                Start = "{0, 463.80832}";
+                            }
+                        );
+                        TableType = 0;
+                        Width = "0.500000";
+                    },
+                                        {
+                        Area = 1;
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "Times-Roman";
+                                        FontSize = "36.00";
+                                        "P_S" = "--";
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 5;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {226.55078, 37.321877}}"
+                            );
+                            Unicode = <fffe3600 78003100 35000000>;
+                        };
+                        Bounds = "{{189.04688, 184.92032}, {226.55078, 37.321877}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{226.55078, 20}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 5}";
+                            Row = 2;
+                            addedmargin = "-9.920319";
+                        };
+                        Number = 62;
+                    }
+                );
+                Inter = "{1, 1}";
+                Margin = "{{1, 1}, {1, 1}}";
+                Row = 0;
+            };
+            Number = 0;
+        }
+    );
+    PaperSize = "{595.28003, 841.89001}";
+    ParagraphStyle =     (
+                {
+            CharStyle =             {
+                Class = SMCharStyle;
+                FontName = "Times-Roman";
+                FontSize = "10.00";
+                Plain = YES;
+                TextColorShade = "1.00";
+            };
+            Class = SMParaStyle;
+            Group = Default;
+            HyphenationPrefix = 3;
+            HyphenationShortestWord = 6;
+            MinSpacing = "85.00";
+            Spacing = "110.00";
+            StyleName = "--";
+            UserSpacing = "40.00";
+        }
+    );
+    Ver = 2001;
+}
