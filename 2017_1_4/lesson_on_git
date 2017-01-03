@@ -44,11 +44,11 @@
       hub create
 
 3. 원거리 Repo 사용법
-  - push
+  - git push
     수정된 내용을 Repo 에 보내기
-  - pull
+  - git pull
     수정된 내용을 Repo 에서 다운받기
-  - fork
+  - Github 에서 fork 버튼
     남의 Repo 를 Github 상의 나의 Repo로 복사하기
 
 4. 교육자료 다운로드받기
@@ -57,3 +57,6 @@
   - 추후 보충된 자료 다운받기
     - git pull
   - 변경된 내용이 없으면 추가 다운로드 하지 않는다.
+
+5. 비공개화 하기 (Private Repo)
+  - 유료서비스 (Paid Service)
