@@ -1,0 +1,59 @@
+2017 1 4
+
+# git 사용법
+
+## 설치
+  이미설치 되었는지 확인하기
+  git --version
+
+  https://git-scm.com/download/mac
+  에서 다운로드
+
+  설치가 잘되었는지 확인하기
+  git --version
+
+## 사용
+  1. 초기 자신의 정보 등록하기
+    - git config --global user.name "Hyung Gyu Kim"
+    - git config --global user.email hgkim@naeil.com
+    - 한글 설명을 지원하기위해 Atom 을 상용할경우
+      - git config --global core.editor "atom --wait"
+  2. 원하는 폴더로 이동한다
+    - cd ~/Document
+  3. 초기화
+    - git init
+  4. 모든 화일 등록하기
+    - git add .
+  5. git commit -m'first commit'
+    - 설명과 함께 저장하기
+
+  6. 현상황 보기
+    - git status
+  7. 저장 기록보기
+    - git log
+
+## github 사용하기
+1. 가입하기
+  - github.com 에서 사용자 등록한다.
+  - 각자 가입하십시요
+
+2. 새로운 Repo 생성하기
+  1. Github 에서 새로운 Repo 만들기
+  1. 내 기기에서 Github Repo 만들기
+      gem install hub
+      hub create
+
+3. 원거리 Repo 사용법
+  - push
+    수정된 내용을 Repo 에 보내기
+  - pull
+    수정된 내용을 Repo 에서 다운받기
+  - fork
+    남의 Repo 를 Github 상의 나의 Repo로 복사하기
+
+4. 교육자료 다운로드받기
+  - 처음 다운받기
+    - git clone https://github.com/mskim/lesson.git
+  - 추후 보충된 자료 다운받기
+    - git pull
+  - 변경된 내용이 없으면 추가 다운로드 하지 않는다.
