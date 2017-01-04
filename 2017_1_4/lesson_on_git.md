@@ -16,8 +16,7 @@
   1. 초기 자신의 정보 등록하기
     - git config --global user.name "Hyung Gyu Kim"
     - git config --global user.email hgkim@naeil.com
-    - 한글 설명을 지원하기위해 Atom 을 상용할경우
-      - git config --global core.editor "atom --wait"
+    - git config --global color.ui true
   2. 원하는 폴더로 이동한다
     - cd ~/Document
   3. 초기화
@@ -26,11 +25,20 @@
     - git add .
   5. git commit -m'first commit'
     - 설명과 함께 저장하기
-
+    - 한글도 가능(iTerm2)
   6. 현상황 보기
     - git status
   7. 저장 기록보기
     - git log
+  8. Git 에 등록하지 않기
+    - .gitignore 파일에 파일혹은 폴더를 등록하면 git 환경에서 무시된다.
+  9. Atom TreeView 에서 git 상태보기
+    - 노란색, 수정된 파일
+    - 파란색, 미등록 파일
+  10. git 다른 장소로 이동하기
+    - 폴다를 다른장소로 이동하면 된다.
+  11. git 없에기
+    - 홀더내부의 .git 을 지우면 된다.
 
 ## github 사용하기
 1. 가입하기
